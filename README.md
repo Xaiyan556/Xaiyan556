@@ -193,13 +193,7 @@ I see coding as a journey to craft beautiful, efficient, and scalable software �
 
 <div class="wave-divider"><svg viewBox="0 0 1200 120" preserveAspectRatio="none"><path d="M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z" fill="#FF6B6B" opacity="0.8"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z; M0,40 C300,80 600,0 900,40 C1050,60 1200,20 1200,40 L1200,120 L0,120 Z; M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z" /></path><path d="M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z" fill="#FFA500" opacity="0.6"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z; M0,60 C200,20 400,60 600,20 C800,60 1000,20 1200,60 L1200,120 L0,120 Z; M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z" /></path></svg></div>
 
-## 💻 Languages & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaiyan556&layout=compact&theme=radical&hide_border=true" alt="Top Languages" class="stats-img" />
-</div>
-
-<div class="wave-divider"><svg viewBox="0 0 1200 120" preserveAspectRatio="none"><path d="M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z" fill="#FF6B6B" opacity="0.8"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z; M0,40 C300,80 600,0 900,40 C1050,60 1200,20 1200,40 L1200,120 L0,120 Z; M0,60 C300,100 600,20 900,60 C1050,80 1200,40 1200,60 L1200,120 L0,120 Z" /></path><path d="M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z" fill="#FFA500" opacity="0.6"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z; M0,60 C200,20 400,60 600,20 C800,60 1000,20 1200,60 L1200,120 L0,120 Z; M0,80 C200,40 400,80 600,40 C800,80 1000,40 1200,80 L1200,120 L0,120 Z" /></path></svg></div>
 
 ## 🏆 Achievements
 
