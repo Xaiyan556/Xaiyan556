@@ -11,6 +11,34 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
 
 ---
 
+## <img src="https://media.giphy.com/media/WUlplcMp4CEVtZQREb/giphy.gif" width="30"> Currently Learning
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="8" />
+  <strong>Data Structures & Algorithms</strong> - Mastering problem-solving patterns
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="leetcode logo" />
+  <img width="8" />
+  <strong>LeetCode Problem Solving</strong> - 100+ problems solved and counting
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="8" />
+  <strong>Spring Boot Advanced</strong> - Microservices and REST APIs
+</div>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="8" />
+  <strong>Advanced React Patterns</strong> - Performance optimization and state management
+</div>
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### Frontend Development
@@ -70,6 +98,31 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iB8JHjT2B9pJq/giphy.gif" width="30"> Open to Opportunities
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Hybrid-orange" alt="Location Preference" />
+</div>
+
+<div align="center">
+  <p><strong>Currently seeking opportunities where I can apply my skills in:</strong></p>
+  <ul>
+    <li>Full-stack web development with modern frameworks</li>
+    <li>Backend system design and API development</li>
+    <li>Data structures and algorithm optimization</li>
+    <li>Collaborative team environments</li>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Email-ayansharmasde%40gmail.com-red" alt="Email" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ayan%20Sharma-blue" alt="LinkedIn" />
 </div>
 
 ---
