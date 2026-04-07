@@ -4,10 +4,11 @@
 
 ---
 
-## 🧠 About Me
+## 🔥 About Me 
 
-I approach coding with discipline and intent ⚡<br>
-I don't rely on trends ❌ — I focus on fundamentals, systems, and execution 🧠
+I embrace discipline and purpose in every line of code ⚡<br>
+I don't just follow trends, I dive deep into concepts and principles 🧠<br>
+I see coding as a journey to craft beautiful, efficient, and scalable software 🌟
 
 ---
 
@@ -121,26 +122,17 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-ayansharmasde%40gmail.com-red" alt="Email" />
-  <img src="https://img.shields.io/badge/LinkedIn-Ayan%20Sharma-blue" alt="LinkedIn" />
+  <a href="mailto:ayansharmasde@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayansharmasde%40gmail.com-red" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayan-sharma-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayan%20Sharma-blue" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Xaiyan556&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaiyan556&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" 
-    alt="Top Languages"
-    width="48%"
-  />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Xaiyan556&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -154,8 +146,9 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xaiyan556&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
----
 
+<!-- 
+---
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -165,7 +158,7 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
   <a href="https://github.com/Xaiyan556/leetcode-solution">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xaiyan556&repo=leetcode-solution&theme=radical" alt="LeetCode Solutions" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -177,9 +170,6 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
   </a>
   <a href="https://x.com/ayxn_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="31" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="31" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/ayxn.prime/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="31" alt="instagram logo"  />
@@ -194,12 +184,12 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
 ## 🌟 Footer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Footer Wave" />
+  <p><em>"Hard work outweighs talent every time."</em></p>
+  <p><strong>— Kobe Bryant</strong></p>
 </div>
 
 <div align="center">
-  <p><em>"Hard work outweighs talent — every time. Ego is the anesthesia that deadens the pain of stupidity."</em></p>
-  <p><strong>— Kobe Bryant</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Footer Wave" />
 </div>
 
 ---
@@ -207,5 +197,3 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Xaiyan556.Xaiyan556&"  />
 </div>
-
-###
