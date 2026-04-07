@@ -77,11 +77,16 @@ I don't rely on trends ❌ — I focus on fundamentals, systems, and execution �
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xaiyan556&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaiyan556&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Xaiyan556&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xaiyan556&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=1800" 
+    alt="Top Languages"
+    width="48%"
+  />
 </div>
 
 <div align="center">
