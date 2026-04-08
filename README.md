@@ -5,7 +5,7 @@
 ## 📋 Table of Contents
 - [🔥 About Me](#-about-me)
 - [📚 Currently Learning](#-currently-learning)
-- [🛠️ Skills & Technologies](#-skills--technologies)
+- [🛠️ Skills & Technologies](#-skills-technologies)
 - [💼 Open to Opportunities](#-open-to-opportunities)
 - [📊 GitHub Statistics](#-github-statistics)
 - [🐍 Contribution Graph](#-contribution-graph)
